@@ -7,4 +7,3 @@
 
 ### El Hardware interno esta conformado por: Placa madre o motherboard, 
 Fuente: https://concepto.de/componentes-de-una-computadora/#ixzz8gqI8EoBW
-ana sofia henao
