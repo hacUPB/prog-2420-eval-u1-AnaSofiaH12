@@ -6,4 +6,6 @@
 ## Hardware : Son los elementos tangibles de la computadora, tanto internos como externos
 
 ### El Hardware interno esta conformado por: Placa madre o motherboard, 
+
+![mapa metal]("C:\Users\USER\Downloads\Partes de un computador.ls (2).png")
 Fuente: https://concepto.de/componentes-de-una-computadora/#ixzz8gqI8EoBW
