@@ -7,5 +7,5 @@
 
 ### El Hardware interno esta conformado por: Placa madre o motherboard, 
 
-![mapa metal]("![C:\Users\USER\Downloads\Partes de un computador.ls (2).png](https://github.com/hacUPB/prog-2420-eval-u1-AnaSofiaH12/blob/main/image.png)")
+![mapa metal](https://github.com/hacUPB/prog-2420-eval-u1-AnaSofiaH12/blob/main/imagenes/image.png)
 Fuente: https://concepto.de/componentes-de-una-computadora/#ixzz8gqI8EoBW
