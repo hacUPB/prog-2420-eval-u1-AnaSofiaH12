@@ -29,9 +29,14 @@ Las computadoras son un sistema informático compuestos por dos figuras fundamen
 
 ![](https://i0.wp.com/ytimg.googleusercontent.com/vi/6Q9mhFA-jTY/maxresdefault.jpg?resize=650,400)
 
-2. Software: Es la parte no física del computador y son un conjunto de programas, instrucciones y regulaciones informáticas para elaborar ciertas tareas en el computador. Hay dos tipos:
-2.1 Software de sistema: Son programas preinstalados en el ordenador que permiten dar soporte a otros programas instalados por el usuario. 
-2.2 Software de aplicación: Estos son programas que no son relevantes para el funcionamiento del computador, sino que son instalados por el usuario para cumplir diversas necesidades. 
+
+**2.Software:** Es la parte no física del computador y son un conjunto de programas, instrucciones y regulaciones informáticas para elaborar ciertas tareas en el computador. 
+
+Hay dos tipos:
+
+**2.1 Software de sistema:** Son programas preinstalados en el ordenador que permiten dar soporte a otros programas instalados por el usuario. 
+
+**2.2 Software de aplicación:** Estos son programas que no son relevantes para el funcionamiento del computador, sino que son instalados por el usuario para cumplir diversas necesidades. 
 
 ### **•	¿Cómo interactúa el hardware con el software, cuál es la función de cada uno?**
 
@@ -50,9 +55,9 @@ Los principales componentes de la CPU son los siguientes:
 
 -Reloj: La CPU gracias a la vinculación con una señal de reloj se regulariza y así el reloj genera un ritmo constante a una frecuencia determinada y nos arroja unos ciclos que se sistematizan con las operaciones de la CPU. Esto estipula cuantas instrucciones puede cumplir tu CPU por segundos. 
 ### **•	¿Qué es la velocidad de la CPU, también conocida como velocidad del reloj?**
-La velocidad reloj evalúa la cantidad de ciclos que ejecuta la CPU por segundos, y su unidad de medida son los GigaHertz (GHz). La CPU cada segundo está procesando diferentes programas sencillos y otros más complicados, entonces un procesador con la frecuencia mayor va a ser mucho más eficiente en la velocidad con la que procesa todo, que uno de frecuencia de menor, se va a tardar mucho más tiempo ejecutando todo. 
+-La velocidad reloj evalúa la cantidad de ciclos que ejecuta la CPU por segundos, y su unidad de medida son los GigaHertz (GHz). La CPU cada segundo está procesando diferentes programas sencillos y otros más complicados, entonces un procesador con la frecuencia mayor va a ser mucho más eficiente en la velocidad con la que procesa todo, que uno de frecuencia de menor, se va a tardar mucho más tiempo ejecutando todo. 
 ### **•	¿Cuál es la secuencia de pasos que ocurre, desde el momento en que presionas el botón de encendido de la computadora, hasta que se muestra el sistema operativo listo para funcionar? Describe todos los elementos involucrados y el paso a paso.**
-El proceso de arranque del equipo es bastante complejo ya que ocurren varias cosas en pocos segundos, a continuación, estos son los pasos que ocurren al encender un computador:
+-El proceso de arranque del equipo es bastante complejo ya que ocurren varias cosas en pocos segundos, a continuación, estos son los pasos que ocurren al encender un computador:
 1.	Inicio de la CPU: Primero que todo el Reloj en tiempo real es el que almacena la hora y sirve como una base para contar el tiempo del sistema operativo, también existe el productorr de la señal de reinicio, un oscilador que genera señal para vincular la CPU, la RAM y muchos más elementos. 
 A la hora de presionar el encendido, la fuente de alimentación suministra energía y una señal llamada “Power good” comprueba que esta energía si la reciba de manera correcta la CPU, la CPU empieza sus registros, borrando cualquier dato anterior del funcionamiento previo e iniciando todo.
 2.	Reset code: Comienza la ejecución de programas almacenados en una memoria, acá se refiere a una dirección especifica que recopila las instrucciones para iniciar una rutina de reinicio para activar componentes del Hardware que complementan la CPU, en cada momento que se realiza una instrucción del programa de arranque, el registro de contador de programa va incrementando la dirección en 1 para seguir con el proceso completo, así se ejecutan toda la secuencia de normas que se deben cumplir. 
