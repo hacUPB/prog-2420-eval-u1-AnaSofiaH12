@@ -40,6 +40,8 @@ Hay dos tipos:
 
 ### **•	¿Cómo interactúa el hardware con el software, cuál es la función de cada uno?**
 
+El hardware y el software son elementos fundamentales de los componentes informáticos y trabajan en relación para cumplir con las tareas asignadas. Sin el hardware, el software no tendría un medio para aplicar, mientras que, sin el software, el hardware no recibiría instrucciones de cómo realizar lo que se pide, los dos se complementan a la hora de cumplir correctamente sus tareas, ya que el primero cumple las tareas físicas y el otro proporciona las instrucciones de cómo hacerlo.
+
 ### **•	¿Cuál es la función de la CPU y cuáles son sus partes más importantes?**
 La Unidad central de procesamiento, es el equipo encargado de ejecutar los cálculos matemáticos lógicos de todo el software, allí se procesan todos los datos mandados por el software, gracias a la Unidad Aritmética Lógica y la unidad de control, por esto también es conocida como el cerebro del computador.
 La CPU almacena instrucciones en la memoria, decodifica normas de ensamblaje, ejecuta instrucciones, entre otros.
