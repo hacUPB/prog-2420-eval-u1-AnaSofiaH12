@@ -81,7 +81,7 @@ Me gusto mucho la actividad, ya que la mayoría de las cosas sinceramente no las
 
 ![mapa metal](https://github.com/hacUPB/prog-2420-eval-u1-AnaSofiaH12/blob/main/imagenes/image.png)
 
-Fuentes bibliograficas : 
+Fuentes bibliograficas:
 
 -https://concepto.de/componentes-de-una-computadora/#ixzz8gqI8EoBW
 
