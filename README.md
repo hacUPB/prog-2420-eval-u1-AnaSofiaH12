@@ -80,4 +80,16 @@ Me gusto mucho la actividad, ya que la mayoría de las cosas sinceramente no las
 
 
 ![mapa metal](https://github.com/hacUPB/prog-2420-eval-u1-AnaSofiaH12/blob/main/imagenes/image.png)
-Fuente: https://concepto.de/componentes-de-una-computadora/#ixzz8gqI8EoBW
+
+Fuentes bibliograficas : 
+
+-https://concepto.de/componentes-de-una-computadora/#ixzz8gqI8EoBW
+
+-https://www.pccomponentes.com/partes-de-un-cpu#
+
+-https://www.intel.la/content/www/xl/es/gaming/resources/cpu-clock-speed.html#:~:text=La%20velocidad%20de%20reloj%20mide,medida%20en%20GHz%20(gigahertz).
+
+-https://www.profesionalreview.com/2023/07/02/proceso-arranque-pc/amp/
+
+
+
